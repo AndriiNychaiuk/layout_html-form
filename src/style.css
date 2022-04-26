@@ -1,1 +1,16 @@
-/* styles go here */
+.header {
+  text-align: center;
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+.form-field {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.field {
+  margin-bottom: 0 px;
+}
