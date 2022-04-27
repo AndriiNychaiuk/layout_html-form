@@ -1,7 +1,3 @@
-.header {
-  text-align: center;
-}
-
 .section {
   margin-bottom: 20px;
 }
@@ -11,6 +7,6 @@
   margin-bottom: 10px;
 }
 
-.field {
-  margin-bottom: 0 px;
+.section :last-child {
+  margin-bottom: 0;
 }
